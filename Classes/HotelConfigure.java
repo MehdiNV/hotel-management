@@ -13,7 +13,7 @@ public class HotelConfigure {
 	*/
 	
 	public static void main (String[] args){
-		System.out.println("Welcome to Assignment 2 \n");
+		System.out.println("Welcome to Hotel Management System \n");
 		//Outputs the introductory message to the user
 		HotelConfigure callMethods = new HotelConfigure();
 
