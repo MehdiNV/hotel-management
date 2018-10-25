@@ -8,7 +8,7 @@ public class HotelConfigure {
 	* b) Validating user inputs
 	* 
 	*
-	* @author Mehdi Naderi Varandi
+	* Author: Mehdi Naderi Varandi
 	* @version 2.1 (December 2017)
 	*/
 	
