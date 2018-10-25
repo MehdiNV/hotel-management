@@ -9,7 +9,7 @@ public class Bed {
 	* ...bed object created is added to the room object
 	* 
 	*
-	* @author Mehdi Naderi Varandi
+	* Author: Mehdi Naderi Varandi
 	* @version 2.1 (December 2017)
 	*/
 	
