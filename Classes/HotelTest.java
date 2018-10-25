@@ -4,7 +4,7 @@ public class HotelTest {
 	* Class that is in charge of:
 	* a) Using predefined inputs to test the program
 	*
-	* @author Mehdi Naderi Varandi
+	* Author: Mehdi Naderi Varandi
 	* @version 2.1 (December 2017)
 	*/
 	
