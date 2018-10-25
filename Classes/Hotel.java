@@ -8,7 +8,7 @@ public class Hotel {
 	* b) For example, room stores information about the beds, whilst the Room object is added to the ArrayList (overallRooms) in hotel
 	* c) When the hotel object is passed on to hotel report, all the information combined is given out to the user in the form of a report
 	*
-	* @author Mehdi Naderi Varandi
+	* Author: Mehdi Naderi Varandi
 	* @version 2.1 (December 2017)
 	*/
 	
