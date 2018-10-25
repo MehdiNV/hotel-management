@@ -7,7 +7,7 @@ public class Room {
 	* b) This allows the program to have room objects that can store individual beds inside them via...
 	*...adding the bed objects to their ArrayList (namely the numberOfBeds)
 	*
-	* @author Mehdi Naderi Varandi
+	* Author: Mehdi Naderi Varandi
 	* @version 2.1 (December 2017)
 	*/
 	
