@@ -8,7 +8,7 @@ public class Room {
 	*...adding the bed objects to their ArrayList (namely the numberOfBeds)
 	*
 	* Author: Mehdi Naderi Varandi
-	* @version 2.1 (December 2017)
+	* Date: December 2017
 	*/
 	
 	
