@@ -10,7 +10,7 @@ public class Bed {
 	* 
 	*
 	* Author: Mehdi Naderi Varandi
-	* @version 2.1 (December 2017)
+	* Date: December 2017
 	*/
 	
 	
