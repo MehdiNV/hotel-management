@@ -9,7 +9,7 @@ public class Hotel {
 	* c) When the hotel object is passed on to hotel report, all the information combined is given out to the user in the form of a report
 	*
 	* Author: Mehdi Naderi Varandi
-	* @version 2.1 (December 2017)
+	* Date: December 2017
 	*/
 	
 	//a) Fields:
