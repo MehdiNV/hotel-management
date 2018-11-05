@@ -5,7 +5,7 @@ public class HotelTest {
 	* a) Using predefined inputs to test the program
 	*
 	* Author: Mehdi Naderi Varandi
-	* @version 2.1 (December 2017)
+	* Date: December 2017
 	*/
 	
 	
