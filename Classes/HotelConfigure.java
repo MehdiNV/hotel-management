@@ -9,7 +9,7 @@ public class HotelConfigure {
 	* 
 	*
 	* Author: Mehdi Naderi Varandi
-	* @version 2.1 (December 2017)
+	* Date: December 2017
 	*/
 	
 	public static void main (String[] args){
